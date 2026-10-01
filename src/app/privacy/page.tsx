@@ -63,7 +63,7 @@ export default function PrivacyPolicyPage() {
       <footer className="container mx-auto px-4 md:px-8 py-8">
         <Separator />
         <div className="mt-8 flex justify-center items-center text-sm text-muted-foreground">
-            <p>Created with ❤️, from India.</p>
+            <p>Created with ❤️, from Sreya Satheesh.</p>
         </div>
       </footer>
     </div>
